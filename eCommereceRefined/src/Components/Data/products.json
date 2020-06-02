@@ -1,0 +1,86 @@
+[
+        {
+            "name": "Mens Striped T-Shirt",
+            "photo": "ProductImages/mensstripedshirt.jpeg",
+            "description": "Mens striped black, white and grey long sleeve T-Shirt.",
+            "price": "$10",
+            "type": "Clothes"
+        },
+        {
+            "name": "Womens Sweater",
+            "photo": "ProductImages/womenssweater.jpg",
+            "description": "Womens grey sweater, for when it's cold outside.",
+            "price": "$10.99",
+            "type": "Clothes"
+        },
+        {
+            "name": "Mens Jeans",
+            "description": "Mens slim blue jeans.",
+            "price": "$15",
+            "photo": "ProductImages/mensjeans.jpg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Womens Leggings",
+            "description": "Womens grey leggins.",
+            "price": "$15",
+            "photo": "ProductImages/womensleggings.jpeg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Mens Tie",
+            "description": "Mens wide colored tie.",
+            "price": "$20",
+            "photo": "ProductImages/menstie.jpg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Mens Workout Pants",
+            "description": "Mens black Nike workout pants.",
+            "price": "$7.99",
+            "photo": "ProductImages/mensworkoutpants.jpeg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Womens Shirt",
+            "description": "Womens black high-top shirt.",            
+            "price": "$5",
+            "photo": "ProductImages/womensshirt.jpg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Womens Dress Shirt",
+            "description": "Womens slim black dress shirt.",
+            "price": "$29.99",
+            "photo": "ProductImages/womensdressshirt.jpg",
+            "type": "Clothes"
+        },
+        {
+            "name": "Top Hat",
+            "description": "Red top hot with a bow wrapped arount it.",
+            "price": "$25.99",
+            "photo": "ProductImages/tophat.jpg",
+            "type": "Accessories"
+        },
+        {
+            "name": "Santa Cruz Hat",
+            "description": "Black Santa Cruz beach hat.",
+            "price": "$25.99",
+            "photo": "ProductImages/santacruzhat.jpg",
+            "type": "Accessories"
+        },
+        {
+            "name": "Mickey Mouse Hat",
+            "description": "Black Mickey Mouse hat with ears off the top.",
+            "price": "$25.99",
+            "photo": "ProductImages/mickeyhat.jpg",
+            "type": "Accessories"
+        },
+        {
+            "name": "Mario Hat",
+            "description": "Red traditional Mario hat.",
+            "price": "$15.89",
+            "photo": "ProductImages/mariohat.jpeg",
+            "type": "Accessories"
+        }
+    ]
