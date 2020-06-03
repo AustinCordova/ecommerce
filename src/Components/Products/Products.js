@@ -1,5 +1,4 @@
 import React from 'react';
-import "/Users/AustinCordova/Desktop/ecommerece-refined/src/App.css";
 
 class List extends React.Component {
     render() {
